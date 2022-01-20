@@ -1,5 +1,5 @@
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   margin: 0;
 }
 
@@ -8,6 +8,7 @@ ul {
   margin: 0;
   padding: 0;
 }
+
 header {
   display: flex;
   justify-content: space-between;
@@ -22,7 +23,7 @@ header {
 
 #page-logo a {
   padding: 10px;
-  font-family: 'Oleo Script', sans-serif;
+  font-family: "Oleo Script", sans-serif;
   color: rgb(245, 243, 160);
   font-size: 50px;
   text-decoration: none;
@@ -46,7 +47,7 @@ header a {
   border-radius: 6px;
 }
 
-header a:hover {
+header nav a:hover {
   color: rgb(77, 77, 77);
   background-color: rgb(255, 251, 0);
 }
